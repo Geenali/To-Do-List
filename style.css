@@ -1,0 +1,16 @@
+
+.input-place {
+    min-height: 40vh;
+    border: 3px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 20px 40px;
+}
+
+.input-place h1 {
+    font-size: 4rem;
+}
